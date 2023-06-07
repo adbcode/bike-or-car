@@ -24,6 +24,7 @@ This is a product of putting my own spin on the fast.ai course (links below).
 
 ## Try deployed model
 You can check out the model in action here - https://adbcode-bike-or-car.hf.space.
+![image](https://github.com/adbcode/bike-or-car/assets/9251629/7a43105b-728e-49b9-81ea-74db88724d02)
 
 ## Reference
 - https://www.kaggle.com/code/jhoward/is-it-a-bird-creating-a-model-from-your-own-data
